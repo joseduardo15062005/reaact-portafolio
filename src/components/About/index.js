@@ -1,8 +1,11 @@
+import ImageAboutMe from "../../assets/images/about-me.svg";
+
 const About = () => {
   return (
     <section>
-      <h1>Who am I?</h1>
-      <div>
+      <div className="page-body">
+        <img src={ImageAboutMe} alt="About Me" className="img-body" />
+        <h1>Who am I?</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
           ultricies sem eget accumsan feugiat. Curabitur ut accumsan augue.
