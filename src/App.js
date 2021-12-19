@@ -6,7 +6,7 @@ import Nav from "./components/Nav";
 import Portafolio from "./components/Portafolio";
 
 function App() {
-  const [currentPage, setCurrentPage] = useState("AboutMe");
+  const [currentPage, setCurrentPage] = useState("About Me");
 
   return (
     <>
