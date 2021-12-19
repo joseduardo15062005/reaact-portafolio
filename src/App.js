@@ -11,6 +11,7 @@ function App() {
       <main>
         <About />
       </main>
+      <footer>this is the footer</footer>
     </>
   );
 }
