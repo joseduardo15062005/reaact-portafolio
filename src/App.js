@@ -11,9 +11,9 @@ function App() {
         <Nav />
       </header>
       <main>
+        <ContactMe />
         <About />
         <Portafolio />
-        <ContactMe />
       </main>
       <footer>this is the footer</footer>
     </>
