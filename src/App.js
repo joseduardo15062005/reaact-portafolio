@@ -18,7 +18,7 @@ function App() {
         {currentPage === "Portafolio" && <Portafolio />}
         {currentPage === "Contact Me" && <ContactMe />}
       </main>
-      <footer>this is the footer</footer>
+      <footer>@joseduardo</footer>
     </>
   );
 }
