@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reaact-portafolio/static/css/main.8a2e7cd5.css",
-    "main.js": "/reaact-portafolio/static/js/main.1e763f9c.js",
+    "main.js": "/reaact-portafolio/static/js/main.83c992e5.js",
     "static/media/resume.svg": "/reaact-portafolio/static/media/resume.09089c85052dbd1ee9de9a57f5584071.svg",
     "static/media/logo.svg": "/reaact-portafolio/static/media/logo.1a919e81f989b7839cf0d571f1bfb695.svg",
     "static/media/about-me.svg": "/reaact-portafolio/static/media/about-me.ad4a758be883a42dc24fa09f9fbc3cab.svg",
@@ -9,10 +9,10 @@
     "static/media/contact-me.svg": "/reaact-portafolio/static/media/contact-me.01916160fd32c9952eadc023bbbfa2b2.svg",
     "index.html": "/reaact-portafolio/index.html",
     "main.8a2e7cd5.css.map": "/reaact-portafolio/static/css/main.8a2e7cd5.css.map",
-    "main.1e763f9c.js.map": "/reaact-portafolio/static/js/main.1e763f9c.js.map"
+    "main.83c992e5.js.map": "/reaact-portafolio/static/js/main.83c992e5.js.map"
   },
   "entrypoints": [
     "static/css/main.8a2e7cd5.css",
-    "static/js/main.1e763f9c.js"
+    "static/js/main.83c992e5.js"
   ]
 }
