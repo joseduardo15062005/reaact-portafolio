@@ -11,7 +11,10 @@ const Nav = ({ currentPage, setCurrentPage }) => {
   }, [currentPage]);
 
   const handlerOpenResume = () => {
-    window.open("/resume.pdf", "_blank");
+    window.open(
+      "https://joseduardo15062005.github.io/reaact-portafolio/resume.pdf",
+      "_blank"
+    );
   };
 
   return (
